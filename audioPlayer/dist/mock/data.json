@@ -1,0 +1,65 @@
+[
+  {
+    "image": "../source/song_1.jpg",
+    "audioSrc": "../source/song_1.mp3",
+    "name": "听妈妈的话",
+    "album": "依然范特西",
+    "singer": "周杰伦",
+    "duration": 266,
+    "isLike": true
+  },
+  {
+    "image": "../source/song_2.jpg",
+    "audioSrc": "../source/song_2.mp3",
+    "name": "最初的梦想",
+    "album": "范玮琪",
+    "singer": "金歧玟",
+    "duration": 239,
+    "isLike": false
+  },
+  {
+    "image": "../source/song_3.jpg",
+    "audioSrc": "../source/song_3.mp3",
+    "name": "所念皆星河",
+    "album": "CJM",
+    "singer": "CJM",
+    "duration": 248,
+    "isLike": false
+  },
+  {
+    "image": "../source/song_4.jpg",
+    "audioSrc": "../source/song_4.mp3",
+    "name": "梦想天空分外蓝",
+    "album": "陈奕迅",
+    "singer": "陈奕迅",
+    "duration": 214,
+    "isLike": false
+  },
+  {
+    "image": "../source/song_5.jpg",
+    "audioSrc": "../source/song_5.mp3",
+    "name": "MOM",
+    "album": "蜡笔小心",
+    "singer": "蜡笔小心",
+    "duration": 214,
+    "isLike": false
+  },
+  {
+    "image": "../source/song_6.jpg",
+    "audioSrc": "../source/song_6.mp3",
+    "name": "夜空中最亮的星",
+    "album": "逃跑计划",
+    "singer": "逃跑计划",
+    "duration": 214,
+    "isLike": false
+  },
+  {
+    "image": "../source/song_7.jpg",
+    "audioSrc": "../source/song_7.mp3",
+    "name": "盛夏的果实",
+    "album": "莫文蔚",
+    "singer": "阿虾",
+    "duration": 214,
+    "isLike": false
+  }
+]
